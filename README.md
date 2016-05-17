@@ -14,7 +14,8 @@ Visualiserar <a href="https://no.wikipedia.org/wiki/Anscombes_kvartett">Anscombe
 <img src="https://github.com/peterdalle/undervisning/blob/master/anscombe.png" alt="Anscombes kvartett" width="500">
 
 ## <a href="https://github.com/peterdalle/undervisning/blob/master/dice-expected-value.r">Simulation av tärningens väntevärde</a>
-Simulation för att hitta en tärnings <a href="https://sv.wikipedia.org/wiki/V%C3%A4ntev%C3%A4rde">väntevärde</a> efter att ha kastat tärningen 500 gånger.
+Simulation av 500 tärningskast för att nå tärningens <a href="https://sv.wikipedia.org/wiki/V%C3%A4ntev%C3%A4rde">väntevärde</a>. En illustration av <a href="https://sv.wikipedia.org/wiki/De_stora_talens_lag">de stora talens lag</a>.
+
 <img src="https://github.com/peterdalle/undervisning/blob/master/vantevarde.png" alt="Felmarginal" width="500">
 
 ## <a href="https://github.com/peterdalle/undervisning/blob/master/felmarginal.r">Felmarginal vid olika urvalsstorlekar</a>
