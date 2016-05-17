@@ -25,4 +25,6 @@ Visualiserar felmarginalen vid olika urvalsstorlekar vid en viss proportion (exe
 Se också blogginlägget <a href="http://www.backendmedia.se/2015/02/10/felmarginal/">Hur stor blir felmarginalen vid en viss urvalsstorlek?</a> för mer information.
 
 ## Mer
-Se också https://github.com/peterdalle/reg för olika typer av statistiska tester skrivna i R.
+
+- Se också <a href="https://github.com/peterdalle/reg">statistiska tester skrivna i R</a> såsom korrelation, regression, variansanalys m.m.
+- <a href="https://github.com/peterdalle/undervisning/blob/master/datasets.md">Datamängder på nätet att ladda ned</a>
