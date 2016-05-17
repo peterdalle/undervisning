@@ -14,7 +14,7 @@ Visualiserar <a href="https://no.wikipedia.org/wiki/Anscombes_kvartett">Anscombe
 <img src="https://github.com/peterdalle/undervisning/blob/master/anscombe.png" alt="Anscombes kvartett" width="500">
 
 ## <a href="https://github.com/peterdalle/undervisning/blob/master/dice-expected-value.r">Simulation av tärningens väntevärde</a>
-Simulation av 500 tärningskast för att nå tärningens <a href="https://sv.wikipedia.org/wiki/V%C3%A4ntev%C3%A4rde">väntevärde</a>. En illustration av <a href="https://sv.wikipedia.org/wiki/De_stora_talens_lag">de stora talens lag</a>.
+Simulation av 500 tärningskast för att nå tärningens <a href="https://sv.wikipedia.org/wiki/V%C3%A4ntev%C3%A4rde">väntevärde</a>. En illustration av <a href="https://sv.wikipedia.org/wiki/De_stora_talens_lag">de stora talens lag</a> (law of large numbers).
 
 <img src="https://github.com/peterdalle/undervisning/blob/master/vantevarde.png" alt="Felmarginal" width="500">
 
@@ -29,3 +29,12 @@ Se också blogginlägget <a href="http://www.backendmedia.se/2015/02/10/felmargi
 
 - Se också <a href="https://github.com/peterdalle/reg">statistiska tester skrivna i R</a> såsom korrelation, regression, variansanalys m.m.
 - <a href="https://github.com/peterdalle/undervisning/blob/master/datasets.md">Datamängder på nätet att ladda ned</a>
+
+## Viktiga koncept inom statistiken
+
+- https://en.wikipedia.org/wiki/Central_limit_theorem
+- https://en.wikipedia.org/wiki/Law_of_large_numbers
+- https://en.wikipedia.org/wiki/Expected_value
+- https://en.wikipedia.org/wiki/Regression_toward_the_mean
+- https://en.wikipedia.org/wiki/Law_of_averages
+- https://en.wikipedia.org/wiki/Infinite_monkey_theorem
