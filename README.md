@@ -6,6 +6,7 @@ Just nu finns här skript för att visualisera:
 
 * Anscombes kvartett
 * Simulation av tärningens väntevärde
+* Simulation av Pearsons r och p-värden
 * Felmarginal vid olika urvalsstorlekar
 
 ## <a href="https://github.com/peterdalle/undervisning/blob/master/anscombe-quartet.r">Anscombes kvartett</a>
@@ -16,7 +17,12 @@ Visualiserar <a href="https://no.wikipedia.org/wiki/Anscombes_kvartett">Anscombe
 ## <a href="https://github.com/peterdalle/undervisning/blob/master/dice-expected-value.r">Simulation av tärningens väntevärde</a>
 Simulation av 500 tärningskast för att nå tärningens <a href="https://sv.wikipedia.org/wiki/V%C3%A4ntev%C3%A4rde">väntevärde</a>. En illustration av <a href="https://sv.wikipedia.org/wiki/De_stora_talens_lag">de stora talens lag</a> (law of large numbers).
 
-<img src="https://github.com/peterdalle/undervisning/blob/master/vantevarde.png" alt="Felmarginal" width="500">
+<img src="https://github.com/peterdalle/undervisning/blob/master/vantevarde.png" alt="Väntevärde" width="500">
+
+## <a href="https://github.com/peterdalle/undervisning/blob/master/pearson-r-p-simulation.r">Simulation av Pearsons r och p-värden</a>
+Simulation av Pearson r och motsvarande p-värden hos helt slumpmässig data med ökande sampelstorlek upp till 1 500. Ger en liten insikt i vad man kan förvänta för korrelation när datan är helt slumpmässig (och när man bör tolka signifikanta p med försiktighet).
+
+<img src="https://github.com/peterdalle/undervisning/blob/master/pearson-r-p-simulation.png" alt="Simulation Pearson r och p-värden" width="500">
 
 ## <a href="https://github.com/peterdalle/undervisning/blob/master/felmarginal.r">Felmarginal vid olika urvalsstorlekar</a>
 Visualiserar felmarginalen vid olika urvalsstorlekar vid en viss proportion (exempelvis 50 %) för ett slumpmässigt urval.
