@@ -8,6 +8,7 @@ Just nu finns här R-skript för att visualisera:
 
 * Simpsons paradox
 * Anscombes kvartett
+* Datasaurus, storebror till Anscombes kvartetts
 * Simulering av tärningens väntevärde
 * Simulering av Pearsons r och p-värden
 * Felmarginal vid olika urvalsstorlekar (för exempelvis surveyundersökningar)
@@ -20,9 +21,14 @@ GIF-animation av [Simpsons paradox](https://plato.stanford.edu/entries/paradox-s
 <img src="https://github.com/peterdalle/undervisning/blob/master/simpsons-paradox.gif" alt="Simpsons paradox" width="500">
 
 ## [Anscombes kvartett](https://github.com/peterdalle/undervisning/blob/master/anscombe-quartet.r)
-Visualiserar [Anscombes kvartett](https://en.wikipedia.org/wiki/Anscombe%27s_quartet).
+Visualiserar [Anscombes kvartett](https://en.wikipedia.org/wiki/Anscombe%27s_quartet) för data som har samma medelvärde, standardavvikelse och korrelation, men ändå ser olika ut.
 
 <img src="https://github.com/peterdalle/undervisning/blob/master/anscombe.png" alt="Anscombes kvartett" width="500">
+
+## [Datasaurus](https://github.com/stephlocke/datasauRus)
+En uppgradering av Anscombes kvartett som visar ännu mer extrema visualiseringar, men som ändå har samma medelvärden med mera.
+
+<img src="https://github.com/peterdalle/undervisning/blob/master/datasaurus.gif" alt="Anscombes kvartett" width="500">
 
 ## [Felmarginal vid olika urvalsstorlekar](https://github.com/peterdalle/undervisning/blob/master/felmarginal.r)
 Visualiserar felmarginalen vid olika urvalsstorlekar vid en viss proportion (exempelvis 50 %) för ett slumpmässigt urval.
