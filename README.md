@@ -1,9 +1,12 @@
 # Undervisning
 
-Diverse skript jag använder till undervisning och utbildning i statistisk. surveyundersökningar, slumpmässigt urval, sannolikhetsteori, centrala gränsvärdessatsen, Power-beräkningar, Monte Carlo-simuleringar med mera.
+Diverse skript jag använder till undervisning och utbildning i statistisk, surveyundersökningar, slumpmässigt urval, sannolikhetsteori såsom centrala gränsvärdessatsen, power-beräkningar, Monte Carlo-simuleringar med mera.
 
-Just nu finns här skript för att visualisera:
+Notera att Monte Carlo-simuleringar håller på att flyttas över till <https://github.com/peterdalle/sim>.
 
+Just nu finns här R-skript för att visualisera:
+
+* Simpsons paradox
 * Anscombes kvartett
 * Simulering av tärningens väntevärde
 * Simulering av Pearsons r och p-värden
@@ -11,8 +14,13 @@ Just nu finns här skript för att visualisera:
 * Simulering av p-värde vid olika effektstorlekar och sampelstorlekar
 * Simulering av power vid olika sampelstorlekar
 
+## [Simpsons paradox](https://github.com/peterdalle/undervisning/blob/master/simpsons-paradox.r)
+GIF-animation av [Simpsons paradox](https://plato.stanford.edu/entries/paradox-simpson/).
+
+<img src="https://github.com/peterdalle/undervisning/blob/master/simpsons-paradox.gif" alt="Simpsons paradox" width="500">
+
 ## [Anscombes kvartett](https://github.com/peterdalle/undervisning/blob/master/anscombe-quartet.r)
-Visualiserar [Anscombes kvartett](https://no.wikipedia.org/wiki/Anscombes_kvartett).
+Visualiserar [Anscombes kvartett](https://en.wikipedia.org/wiki/Anscombe%27s_quartet).
 
 <img src="https://github.com/peterdalle/undervisning/blob/master/anscombe.png" alt="Anscombes kvartett" width="500">
 
@@ -62,3 +70,5 @@ Simulering av power vid olika sampelstorlekar, medelvärden och varians. Använd
 - https://sv.wikipedia.org/wiki/Monte_Carlo-metod
 - https://en.wikipedia.org/wiki/Statistical_power
 - https://en.wikipedia.org/wiki/Infinite_monkey_theorem
+
+Förslag på hur dessa kan visualiseras tas tacksamt emot! [@peterdalle](https://twitter.com/peterdalle)
