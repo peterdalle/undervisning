@@ -1,14 +1,17 @@
 # Undervisning
 
-Diverse skript jag använder till undervisning och utbildning i statistisk, surveyundersökningar, slumpmässigt urval, sannolikhetsteori såsom centrala gränsvärdessatsen, power-beräkningar, Monte Carlo-simuleringar med mera.
+Diverse skript jag använder till undervisning och utbildning i statistisk, surveyundersökningar, slumpmässigt urval, sannolikhetsteori, centrala gränsvärdessatsen, power-beräkningar, med mera.
+
+Använd dessa som du vill, till exempel i undervisningen, eftersom [licensen](LICENSE.md) är väldigt generös. Men ange gärna källa.
 
 Notera att Monte Carlo-simuleringar håller på att flyttas över till <https://github.com/peterdalle/sim>.
 
 Just nu finns här R-skript för att visualisera:
 
-* Simpsons paradox
+* Simpsons paradox (animation)
+* Standardavvikelse (animation)
 * Anscombes kvartett
-* Datasaurus, storebror till Anscombes kvartetts
+* Datasaurus (animation), storebror till Anscombes kvartetts
 * Simulering av tärningens väntevärde
 * Simulering av Pearsons r och p-värden
 * Felmarginal vid olika urvalsstorlekar (för exempelvis surveyundersökningar)
